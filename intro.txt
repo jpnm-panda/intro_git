@@ -1,3 +1,4 @@
 ぱんださんが勉強を教えてくれます
 ・git add
 ・git push
+・git status
